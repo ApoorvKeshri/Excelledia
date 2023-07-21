@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[OpenBrowser]]>
+    </line>
+    <line>
+      <![CDATA[CloseBrowser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-09T18:57:47 IST" name="Default suite" finished-at="2023-06-09T18:57:58 IST" duration-ms="11168">
+    <groups>
+    </groups>
+    <test started-at="2023-06-09T18:57:47 IST" name="Default test" finished-at="2023-06-09T18:57:58 IST" duration-ms="11168">
+      <class name="com.TestScript.BookFilgt">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.TestScript.BookFilgt@73a1e9a9]" started-at="2023-06-09T18:57:47 IST" name="openBrowser" finished-at="2023-06-09T18:57:51 IST" duration-ms="4184" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[OpenBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="Url()[pri:0, instance:com.TestScript.BookFilgt@73a1e9a9]" started-at="2023-06-09T18:57:51 IST" name="Url" finished-at="2023-06-09T18:57:55 IST" duration-ms="3671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Url -->
+        <test-method signature="Book()[pri:0, instance:com.TestScript.BookFilgt@73a1e9a9]" started-at="2023-06-09T18:57:55 IST" name="Book" finished-at="2023-06-09T18:57:57 IST" duration-ms="2545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Book -->
+        <test-method is-config="true" signature="summit()[pri:0, instance:com.TestScript.BookFilgt@73a1e9a9]" started-at="2023-06-09T18:57:57 IST" name="summit" finished-at="2023-06-09T18:57:58 IST" duration-ms="526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- summit -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.TestScript.BookFilgt@73a1e9a9]" started-at="2023-06-09T18:57:58 IST" name="closeBrowser" finished-at="2023-06-09T18:57:58 IST" duration-ms="156" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[CloseBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.TestScript.BookFilgt -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
